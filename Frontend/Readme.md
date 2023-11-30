@@ -1,1 +1,1 @@
-# FRONTEND con angular
+# FRONTEND con angular 2.0
